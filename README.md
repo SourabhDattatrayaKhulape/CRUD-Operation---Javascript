@@ -1,1 +1,1 @@
-# CRUD operatin  - Javascript
+# CRUD operation  - Javascript
